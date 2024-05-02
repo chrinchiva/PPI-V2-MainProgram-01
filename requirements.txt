@@ -1,0 +1,7 @@
+pip install opencv-python~=4.9.0.80
+SpeechRecognition
+noisereduce
+pyaudio
+openai
+pip install gtts
+gtts
